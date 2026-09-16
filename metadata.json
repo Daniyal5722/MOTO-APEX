@@ -1,0 +1,6 @@
+{
+  "name": "APEX MOTO RUSH",
+  "description": "3D Physics Motorcycle Stunt Racing Game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
